@@ -1,2 +1,2 @@
-# shrikant.git.io
+# shrikant.github.io
 My page
